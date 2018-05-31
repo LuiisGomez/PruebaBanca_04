@@ -1,15 +1,7 @@
-package com.bbva.arq.front.spring.qpri.modulopruebaback.impl;
+paquete  com.bbva.arq.front.spring.qpri.modulopruebaback.impl ;
 
-import com.bbva.arq.front.spring.qpri.modulopruebaback.ClasePruebaBack;
+import  com.bbva.arq.front.spring.qpri.modulopruebaback.ClasePruebaBack ;
 
-public class ClasePruebaBackImpl{
-  
-  private String valor(){
-  
-  }
-  
-  private void valor(){
-    return "valor que no debe de regresar";
-  }
+ clase  pública ClasePruebaBackImpl  implementa  ClasePruebaBack {
 
 }
