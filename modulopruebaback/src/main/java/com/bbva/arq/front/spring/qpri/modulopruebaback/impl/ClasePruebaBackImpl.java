@@ -2,7 +2,7 @@ package com.bbva.arq.front.spring.qpri.modulopruebaback.impl;
 
 import com.bbva.arq.front.spring.qpri.modulopruebaback.ClasePruebaBack;
 
-public class ClasePruebaBackImpl extends ClasePruebaBack {
+public class ClasePruebaBackImpl interface ClasePruebaBack {
   
   private String valor(){
   
